@@ -14,7 +14,6 @@ function App() {
         <Mid />
         <Cards />
         <Gallery />
-        <Aftermovie />
         <Footer />
       </div>
     </>
